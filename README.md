@@ -42,7 +42,6 @@ npm install
 # 3. Start the development server
 npm start
 
-![3d5ae0afda186942652c5d09f6c856e](https://github.com/user-attachments/assets/dc56b23e-223d-43cd-85e8-17d60a09775c)
 
 
 
