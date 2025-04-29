@@ -4,9 +4,10 @@ BigBrain is a web-based quiz management platform that allows administrators to c
 
 # Sample Demo
 
-![Uploading Admin.png…]()
+![Admin](https://github.com/user-attachments/assets/864fc5ef-2a07-4804-9853-b0a0e7a32af4)
 ![Game](https://github.com/user-attachments/assets/1b2b3dc2-fe8f-48d0-a4c3-1bb29861f566)
-![Uploading result.png…]()
+![result](https://github.com/user-attachments/assets/6a4ed85c-e9ce-44da-b81b-4cc6993b260a)
+
 
 ## Features
 
