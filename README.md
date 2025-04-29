@@ -42,17 +42,5 @@ npm install
 # 3. Start the development server
 npm start
 
-## Demo
-
-Here are some screenshots of BigBrain in action:
-
-### Admin Dashboard
-![3d5ae0afda186942652c5d09f6c856e](https://github.com/user-attachments/assets/8cbadbc1-96c3-4181-a725-82f07fc6b34a)
-
-
-
-
-### Game Result Page （Admin view）
-
 
 
