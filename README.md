@@ -3,8 +3,10 @@
 BigBrain is a web-based quiz management platform that allows administrators to create, edit, and manage multiplayer quizzes, and allows players to participate in real-time games.
 
 # Sample Demo
-![image](https://github.com/user-attachments/assets/e6ea2da6-5459-4f29-948a-b30b55803823)
 
+![Uploading Admin.png…]()
+![Game](https://github.com/user-attachments/assets/1b2b3dc2-fe8f-48d0-a4c3-1bb29861f566)
+![Uploading result.png…]()
 
 ## Features
 
